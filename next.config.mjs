@@ -1,4 +1,5 @@
 const isProd = false
+const abc = 'abc'
 const nextConfig = {
   reactStrictMode: true,
   images: {
